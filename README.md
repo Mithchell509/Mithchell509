@@ -1,7 +1,9 @@
 # Hi there 👋
 
-Welcome to my GitHub profile! I'm Mithchell Lawensky Cenatus, an enthusiastic Civil Engineer with a passion for matchematics and physics🚀.
-I'm new to programming and I'm currently a student in a Fondation Track in Computer and Data Science at MIT Emerging Talent.
+Welcome to my GitHub profile!
+I'm Mithchell Lawensky Cenatus, an enthusiastic Civil Engineer with a passion for matchematics and physics🚀.
+I'm new to programming and I'm currently a student in a Fondation Track in Computer and Data Science at MIT
+Emerging Talent.
 
 😎Pronouns: Him/He
 
