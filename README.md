@@ -11,7 +11,7 @@ Pronunciation: Mitch-uhl
 
 
 ## 🔧 Technologies & Tools
-- **Languages**:Python, C++
+- **Languages**: Python, C++
 
 ## 🚀 Projects
 Here are some of my favorite projects:
@@ -24,5 +24,5 @@ Here are some of my favorite projects:
 
 ## 🌐 Connect with Me
 - [LinkedIn](https://www.linkedin.com/in/mithchell-lawensky-cenatus-75a76b173?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=android_app)
-- Emai:mlawenskycenatus@gmail.com
+- Emai: mlawenskycenatus@gmail.com
 
