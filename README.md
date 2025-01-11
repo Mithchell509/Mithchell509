@@ -28,7 +28,8 @@ I'm new to programming and currently a student in the
 
 ## 🚀 Projects
 
-Here are some of my favorite projects:  
+Here are some of my favorite projects:
+
 - [Projet de Reconstruction de la Cité Administrative de Port-au-Prince](https://youtu.be/oUdI1pYpFEk?si=rEsiEgXVc7bbiCyy)
 
 ---
@@ -43,4 +44,4 @@ Here are some of my favorite projects:
 ## 🌐 Connect with Me
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Mithchell-blue?logo=linkedin&style=flat)](https://www.linkedin.com/in/mithchell-lawensky-cenatus-75a76b173?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=android_app)  
-📧 **Email**: mlawenskycenatus@gmail.com
+📧 **Email**: [mlawenskycenatus@gmail.com](mailto:mlawenskycenatus@gmail.com)
