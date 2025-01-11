@@ -11,15 +11,15 @@ I'm new to programming and currently a student in the
 
 ---
 
-## 🌱 Objectifs Actuels
+## 🌱 Current Goals
 
-- 📘 Améliorer mes compétences en **Python** et **C++**.  
-- 💡 Explorer les applications de la programmation dans l'ingénierie.  
-- 🌐 Contribuer à des projets en open source.
+- 📘 Improve my skills in **Python** and **C++**.  
+- 💡 Explore the applications of programming in engineering.  
+- 🌐 Contribute to open source projects.
 
 ---
 
-## 🔧 Technologies & Outils
+## 🔧 Technologies and Tools
 
 ![Python](https://img.shields.io/badge/-Python-3776AB?logo=python&logoColor=white&style=flat)  
 ![C++](https://img.shields.io/badge/-C++-00599C?logo=c%2B%2B&logoColor=white&style=flat)
@@ -31,6 +31,7 @@ I'm new to programming and currently a student in the
 Here are some of my favorite projects:
 
 - [Projet de Reconstruction de la Cité Administrative de Port-au-Prince](https://youtu.be/oUdI1pYpFEk?si=rEsiEgXVc7bbiCyy)
+- [MIT Emerging Talent Certificate in Computer and Data Science](https://emergingtalent.mit.edu/)
 
 ---
 
